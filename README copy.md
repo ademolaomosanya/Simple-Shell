@@ -106,4 +106,6 @@ help error:
 #cisfun$ help hola
 ./hsh: 4: help: no help topics match 'hola'. Try 'help help' or 'man -k 'hola' or info 'hola'
 #cisfun$
-
+# Authors
+Christiana Etok @bluishchrissie
+Ojonuba Jeremiah @spartan124
